@@ -1,0 +1,7 @@
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\bin\Debug\AtletikaiVerseny.exe.config
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\bin\Debug\AtletikaiVerseny.exe
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\bin\Debug\AtletikaiVerseny.pdb
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\obj\Debug\AtletikaiVerseny.csprojAssemblyReference.cache
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\obj\Debug\AtletikaiVerseny.csproj.CoreCompileInputs.cache
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\obj\Debug\AtletikaiVerseny.exe
+C:\Users\nyb15KovácsG\source\repos\AtletikaiVerseny\AtletikaiVerseny\obj\Debug\AtletikaiVerseny.pdb
